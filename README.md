@@ -4,7 +4,7 @@
 <h1></center>
 
 <center>
-    <img src="banner2.jpg" alt="">
+    <img src="working.gif" alt="">
 </center>
 
 <center>
